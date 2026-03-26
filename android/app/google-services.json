@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011148857497",
+    "project_id": "think-of-you-70a07",
+    "storage_bucket": "think-of-you-70a07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011148857497:android:8634eaaeb812a58a6f9808",
+        "android_client_info": {
+          "package_name": "com.example.think_of_you"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vr3MwqRGJ_pNN4dqWs8DQHHfzxaU_gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
